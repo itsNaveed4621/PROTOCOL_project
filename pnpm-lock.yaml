@@ -23,6 +23,9 @@ importers:
       '@tanstack/react-query':
         specifier: ^5.100.10
         version: 5.100.10(react@19.2.6)
+      '@wagmi/core':
+        specifier: ^3.4.11
+        version: 3.4.11(@tanstack/query-core@5.100.10)(@types/react@19.2.14)(react@19.2.6)(use-sync-external-store@1.4.0(react@19.2.6))(viem@2.49.0(zod@3.25.76))
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
